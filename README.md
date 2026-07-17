@@ -1,13 +1,18 @@
-# 📖Daily Learning Journey
-Day1: python basics+Google colab, Gemini Ai, portfolio's and pages.
-Day2: variable+ input and output 
-Day3:html basic and my first web page.
-Day4: print statement+ variables+python Syntext+addition operations and string concatenation.
-Day5: prompt engineering+introduction to famous AI tools+Understanding Hercules AI+working with loveable for no code development+Turning ideas into Application with AI.
-Day6: Digital identity+Difference between professional and personal Gmail.
-Day7: learn and practice freecodecamp.
-Day8: professional programming+Functional programming and objects oriented programming.
-Day9: Syntext and  IndIndentaion
-Day10:If ,Elif and else.
-Day11:Tofu,Mofu and Bofu 
-Day12:create my first “To do list app” by using loveable.
+📖🔗My Learning Portfolio
+
+Learning Timeline
+
+- Day 1 – Python Basics & Google Colab
+- Day 2 – Variables, Input & Output
+- Day 3 – HTML Basics & My First Web Page
+- Day 4 – Print Statement, Variables & String Concatenation
+- Day 5 – Prompt Engineering & AI Tools
+- Day 6 – Digital Identity & Professional Gmail
+- Day 7 – FreeCodeCamp Practice
+- Day 8 – Programming Fundamentals
+- Day 9 – Python Syntax & Indentation
+- Day 10 – If, Elif & Else Statements
+- Day 11 – Marketing Funnel (TOFU, MOFU & BOFU)
+- Day 12 – Built My First AI-Powered To-Do List App Using Lovable
+- Day 13 – Built My Personal Learning Portfolio in Notion
+- Day 14 – Git & GitHub Basics, Created My Learning Portfolio Repository
